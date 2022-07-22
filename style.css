@@ -1,4 +1,5 @@
 body{
+    margin: 0;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -6,14 +7,31 @@ h1{
 font-size: 20px;
 }
 .rahi{
-    color: darkorange;
+    color: hwb(209 0% 0% / 0.603);
 }
 .ash{
     width:40%;
     float: left;
-    margin-left: 5%;
-    padding-left: 2%;
+    margin-left: 2%;
+   padding: 3%;
+   
 }
 .ash img{
-    width: 60%;
+    width: 55%;
+}
+.raha{
+    background-image:url(images/top-banner.png) ;
+    background-repeat: no-repeat;
+
+}
+section{
+    height: 500px;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(salmon,blue);
+    padding: 7px 3px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: beige;
 }
