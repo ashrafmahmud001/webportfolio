@@ -46,3 +46,22 @@ h2{
 .mahmud{
     box-shadow: 10px 10px 40px gray;
 }
+footer p{
+    text-align: center;
+}
+.mina{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#school{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightsalmon,tomato);
+    border-image-slice: 1;
+    
+}
+#school1{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
